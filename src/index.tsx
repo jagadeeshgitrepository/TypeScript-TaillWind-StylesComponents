@@ -5,7 +5,7 @@ import './Common/i18n'
 
 import * as serviceWorker from './serviceWorker'
 import App from './Common/routes/App'
-import LoadingView from './Common/LoadingWrapper/LoadingView'
+import LoadingView from './Common/components/LoadingWrapper/LoadingView'
 
 import './index.css'
 

@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { withTranslation, WithTranslation } from 'react-i18next' // eslint-disable-line
 
-import Button from '../../components/Button'
+import Button from '../../Button'
 
 import {
    FailureText,

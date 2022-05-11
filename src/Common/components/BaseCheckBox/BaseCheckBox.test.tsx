@@ -1,7 +1,7 @@
 import React from 'react'
 import { render, fireEvent } from '@testing-library/react'
 
-import BaseCheckBox from '.'
+import BaseCheckBox from './index'
 
 describe('BaseCheckBox component test cases', () => {
    it('should call on change prop', () => {
